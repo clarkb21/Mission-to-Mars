@@ -101,6 +101,8 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+GettingStartedWithSplinter.ipynb
+
 # Environments
 .env
 .venv
